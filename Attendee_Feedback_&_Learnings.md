@@ -1,8 +1,9 @@
-# Attendee Feedback & Learnings 😁 😎 
+# Attendee Feedback & Learnings 😁 😎 💻
 
-Hello Folks, MLSA Workshop Attendees!
+Hello Folks , Welcome to MLSA Workshop!!
 
-We're excited to see what you've learned today. Please take a moment to share your name and the key takeaways from the workshop by following the steps below.
+I'm excited to know that what you have learn in this Workshop. What did you learn something New &
+explore in this Workshop and feel free to share my feedback how can i more Interesting the upcoming Workshops!!<br>
 
 1. **Name** :- AryanMAN 😅 <br>
    **Feedback & Learnings** :- Enjoyed Workshop and grab some learings in Git, GitHub, and GitHub.dev with Aryan! More workshops please! Thanks for the "GitHub Explorer: Aryan's Workshop Wonderland!" 🚀 🙌
