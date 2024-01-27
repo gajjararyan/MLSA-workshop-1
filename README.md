@@ -1,9 +1,9 @@
 ![Slide](https://github.com/gajjararyan/MLSA-workshop-1/assets/102947440/da8a9326-119a-4e51-910d-e6e50d2d7d25) 
 
-#Introduction to GitHub with GitHub.Dev
+### Introduction to GitHub with GitHub.Dev
 
  
-##BY Aryan Gajjar(Alpha-Mlsa) [Aryan Gajjar](https://linktr.ee/aryangajjar) 
+### BY Aryan Gajjar(Alpha-Mlsa) [Aryan Gajjar](https://linktr.ee/aryangajjar) 
 
 ### Workshop Details 
 
