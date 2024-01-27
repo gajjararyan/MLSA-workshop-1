@@ -3,7 +3,7 @@
 ### Introduction to GitHub with GitHub.Dev
 
  
-### BY Aryan Gajjar(Alpha-Mlsa) [Aryan Gajjar](https://linktr.ee/aryangajjar) 
+### BY [Aryan Gajjar](https://linktr.ee/aryangajjar)(Alpha-Mlsa) 
 
 ### Workshop Details 
 
