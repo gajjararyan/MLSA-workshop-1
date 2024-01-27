@@ -30,7 +30,7 @@
    **Feedback & Learnings** :- Enjoyed Workshop and grab some learnings in Git, GitHub, and GitHub.dev with Aryan! More workshops please! Thanks for the "GitHub Explorer: Aryan's Workshop Wonderland!" 🚀 🙌
 
 4. **Commit Changes:**
-   Scroll down, add a commit message (e.g., "Added my learnings") and click 'Commit Changes'.
+   Scroll down, add a commit message (e.g., "Added my learnings & Experience") and click 'Commit Changes'.
 
 5. **Create a Pull Request:**
    After committing changes, navigate back to the main page of your forked repository. Click 'Pull Requests' > 'New Pull Request'. You can review your changes and then create the pull request.
