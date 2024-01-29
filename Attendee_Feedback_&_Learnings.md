@@ -6,7 +6,7 @@ I'm excited to know that what 🤔 you have learn in this Workshop. What did you
  Please share your feedback on how future workshops can be made more engaging and interesting!!<br>
 
 1. **Name** :- AryanMAN 😅 <br>
-   **Feedback & Learnings** :- Enjoyed Workshop and grab some learnings in Git, GitHub, and GitHub.dev with Aryan! More workshops please! Thanks for the "GitHub Explorer: Aryan's Workshop Wonderland!" 🚀 🙌
+   **Feedback & Learnings** :- Enjoyed Workshop and grab some learnings in Git, GitHub, and GitHub.dev with Aryan! More workshops please! Thanks for the "GitHub Explorer: Aryan's Workshop Wonderland!" 🚀 🙌 
 
 2. **Name** :- Arnabjk008 <br>
    **Feedback & Learnings** :- Enjoyed Workshop and grab some learnings in Git, GitHub, and GitHub.dev with Aryan! More workshops please! Thanks for the "GitHub Explorer: Aryan's Workshop Wonderland!" 🚀 🙌
@@ -25,3 +25,6 @@ I'm excited to know that what 🤔 you have learn in this Workshop. What did you
 
 7. **Name** :- Meshwa devanshi  <br>
    **Feedback & Learnings** :- Enjoyed Workshop and grab some learnings in Git, GitHub, and GitHub.dev with Aryan! More workshops please! Thanks for the "GitHub Explorer: Meshwadevanshi's Workshop Wonderland!" 🚀 🙌
+
+8. **Name** :- Tanvi Chaudhari & Kuldeep <br>
+   **Feedback & Learnings** :-  Thanks for the "GitHub Explorer: Aryan's Workshop Wonderland!"!!
