@@ -7,5 +7,5 @@ I'm excited to know that what 🤔 you have learn in this Workshop. What did you
 
 1. **Name** :- AryanMAN 😅 <br>
    **Feedback & Learnings** :- Enjoyed Workshop and grab some learnings in Git, GitHub, and GitHub.dev with Aryan! More workshops please! Thanks for the "GitHub Explorer: Aryan's Workshop Wonderland!" 🚀 🙌
-2. **Name** :- Tanvi Chaudhari <br>
+2. **Name** :- Tanvi Chaudhari & Kuldeep <br>
    **Feedback & Learnings** :- Enjoyed Workshop and grab some learnings in Git, GitHub, and GitHub.dev with Aryan! More workshops please! Thanks for the "GitHub Explorer: Aryan's Workshop Wonderland!" 🚀 🙌
