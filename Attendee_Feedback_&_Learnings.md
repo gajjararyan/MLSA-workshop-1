@@ -8,16 +8,17 @@ I'm excited to know that what 🤔 you have learn in this Workshop. What did you
 1. **Name** :- AryanMAN 😅 <br>
    **Feedback & Learnings** :- Enjoyed Workshop and grab some learnings in Git, GitHub, and GitHub.dev with Aryan! More workshops please! Thanks for the "GitHub Explorer: Aryan's Workshop Wonderland!" 🚀 🙌
 
-2. **Name** :- Arnabjk008 😅 <br>
+2. **Name** :- Arnabjk008 <br>
    **Feedback & Learnings** :- Enjoyed Workshop and grab some learnings in Git, GitHub, and GitHub.dev with Aryan! More workshops please! Thanks for the "GitHub Explorer: Aryan's Workshop Wonderland!" 🚀 🙌
 
 3. **Name** :- NaKsHaTrA <br>
    **Feedback & Learnings** :- Got to know about what is git how to fork and clone repository now currently committing changes in the repository" 🚀 🙌
 
-4. **Name** :- hemal  😅 <br>
+4. **Name** :- hemal   <br>
    **Feedback & Learnings** :- Enjoyed Workshop and grab some learnings in Git, GitHub, and GitHub.dev with Aryan! More workshops please! Thanks for the "GitHub Explorer: Aryan's Workshop Wonderland!" 🚀 🙌
 
 5. **Name** :- ravindra aryan <br>
-   **Feedback & Learnings** :- Enjoyed Workshop and grab some learnings in Git, GitHub, and GitHub.dev with Aryan  Gajjar! I Think we Need More workshops please! Thanks for the "GitHub Explorer Excellent Job...."
-   
-   
+   **Feedback & Learnings** :- Enjoyed Workshop and grab some learnings in Git, GitHub, and GitHub.dev with Aryan  Gajjar! I Think we Need More workshops please! Thanks for the "GitHub Explorer Excellent Job...."   
+
+6. **Name** :- Aum Patel  <br>
+   **Feedback & Learnings** :-this is great experience thanks a lot . in this event i learing new , which i dont know.  i hope you arrange this kind events.
