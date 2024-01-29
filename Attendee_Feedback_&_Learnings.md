@@ -9,4 +9,4 @@ I'm excited to know that what 🤔 you have learn in this Workshop. What did you
    **Feedback & Learnings** :- Enjoyed Workshop and grab some learnings in Git, GitHub, and GitHub.dev with Aryan! More workshops please! Thanks for the "GitHub Explorer: Aryan's Workshop Wonderland!" 🚀 🙌
 
 1. **Name** :- Aum Patel 😅 <br>
-   **Feedback & Learnings** :-this is great experince thanks a lot . in this event i learing new , which i dont know.  Enjoyed Workshop and grab some learnings in Git, GitHub, and GitHub.dev with Aryan! More workshops please! Thanks for the "GitHub Explorer: Aryan's Workshop Wonderland!" 🚀 🙌
+   **Feedback & Learnings** :-this is great experince thanks a lot . in this event i learing new , which i dont know.  i hope you arange this kind event
