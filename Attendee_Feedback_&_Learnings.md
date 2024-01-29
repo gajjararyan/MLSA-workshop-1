@@ -16,15 +16,18 @@ I'm excited to know that what 🤔 you have learn in this Workshop. What did you
 
 4. **Name** :- hemal   <br>
    **Feedback & Learnings** :- Enjoyed Workshop and grab some learnings in Git, GitHub, and GitHub.dev with Aryan! More workshops please! Thanks for the "GitHub Explorer: Aryan's Workshop Wonderland!" 🚀 🙌
+   
+5. **Name** :- Aryan Bhati   <br>
+   **Feedback & Learnings** :- Had a great time at Aryan Bhaiya's workshop, gaining insights into Git, GitHub, and GitHub.dev! Eagerly looking forward to more workshops. Appreciate the fantastic "GitHub Explorer: Aryan's Workshop Wonderland!" experience" 🚀 🙌
 
-5. **Name** :- ravindra aryan <br>
+6. **Name** :- ravindra aryan <br>
    **Feedback & Learnings** :- Enjoyed Workshop and grab some learnings in Git, GitHub, and GitHub.dev with Aryan  Gajjar! I Think we Need More workshops please! Thanks for the "GitHub Explorer Excellent Job...."   
 
-6. **Name** :- Aum Patel  <br>
+7. **Name** :- Aum Patel  <br>
    **Feedback & Learnings** :-this is great experience thanks a lot . in this event i learing new , which i dont know.  i hope you arrange this kind events.
 
 7. **Name** :- Meshwa devanshi  <br>
    **Feedback & Learnings** :- Enjoyed Workshop and grab some learnings in Git, GitHub, and GitHub.dev with Aryan! More workshops please! Thanks for the "GitHub Explorer: Meshwadevanshi's Workshop Wonderland!" 🚀 🙌
 
-8. **Name** :- Tanvi Chaudhari & Kuldeep <br>
+9. **Name** :- Tanvi Chaudhari & Kuldeep <br>
    **Feedback & Learnings** :-  Thanks for the "GitHub Explorer: Aryan's Workshop Wonderland!"!!
