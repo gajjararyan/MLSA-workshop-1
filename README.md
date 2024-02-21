@@ -38,4 +38,4 @@
 6. **Submit Your Pull Request:**
    Give your pull request a meaningful title and description, then click 'Create Pull Request'.
 
-Thank you for sharing your learnings & Experience with us , I hope you Enjoyed it 🤗 🙌 !!
+Thank you for sharing your learnings & Experience with us , I hope you Enjoyed it 🤗 🙌 !
